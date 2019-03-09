@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create User Form</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <style type="text/css">
+        body, html {
+            height: 120%;
+            background-repeat: no-repeat;
+            background-image: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));
+        }
+
+        .jumbotron {
+            margin-bottom: 0;
+        }
+
+        .centered-form{
+            margin-top: 60px;
+        }
+
+        .centered-form .panel{
+            background: rgba(255, 255, 255, 0.8);
+            box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+        }
+        table{
+            width: 100%;
+            margin-bottom: 20px;
+            border-collapse: collapse;
+        }
+        table, th, td{
+            border: 1px solid #cdcdcd;
+        }
+        table th, table td{
+            padding: 10px;
+            text-align: left;
+        }
+
+        div{
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="jumbotron">
+    <div class="container text-center">
+        <h1>Your Battery Level!</h1>
+        <p>Bringing Your Power Needs Closer To You!</p>
+    </div>
+</div>
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+        <form style="text-align: center">
+            <a href="login.html"><input type="button" class="log-out" value="Log Out"style="color: black"></a>
+            <a href="/welcome.html"><input type="button" class="log-out" value="Back" style="color: black"></a>
+        </form>
+    </div>
+    
+</nav>
+<div class="container">
+        <canvas id="heatingchart" width="40" height="5"></canvas>
+    <canvas id="heatingchart"></canvas>
+</div>
+</body>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(function () {                    
+            $.ajax({
+                url: "/battery/",
+                method: "GET",
+                data: "",
+                dataType: "JSON",
+                success: function (result) {
+                    console.log(result);
+                    //heatvals(result);
+                    charts(result);
+                    console.log(result);
+                    console.log("lenght");
+                    console.log(result.length);
+                },
+                error: function (xhr, status, error) {
+                    console.log("error: " + error);
+                }        
+            });
+
+            function charts(batterys){
+                var len = batterys.length;
+                var Power = batterys[i];
+                var batteryVals=[];
+                for (var i = 0; i < len; i++) {
+                    var Power = batterys[i];
+                    batteryVals[i] = Power.BatteryLvl;
+                }                    
+
+                Chart.defaults.global.defaultFontColor = '#000';
+                console.log(batteryVals)
+                var hours = [0,02,04,06,08,10,12,14,16,18,20,22];
+                 
+                    var ctx = document.getElementById("heatingchart");
+                    var myChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: hours,
+                        datasets: [
+                        { 
+                            label:'Battery Level Past 24 Hours',
+                            data: batteryVals,
+                            backgroundColor:'rgba(255, 99, 132, 0.5)'
+                        }
+                        ]
+                    },
+                    options:{
+                        legend:{
+                            labels:{
+                                fontColor:'#000'
+                            }
+                        },
+                        layout:{
+                            padding:{
+                                left:80,
+                                right:80,
+                                bottom:0,
+                                top:0
+                            }
+                        }
+                    }
+                    });
+                }        
+            
+        })
+        });
+</script>
+</html>

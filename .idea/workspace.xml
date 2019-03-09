@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16dfaaad-3688-4364-ac84-c625d3802b91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MytextApplication/AppServer/copyrecords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MytextApplication/AppServer/appServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/MytextApplication/AppServer/appServer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MytextApplication/DAO/heatingdao.js" beforeDir="false" afterPath="$PROJECT_DIR$/MytextApplication/DAO/heatingdao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MytextApplication/Public/heatingtable.html" beforeDir="false" afterPath="$PROJECT_DIR$/MytextApplication/Public/heatingtable.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MytextApplication/AppServer/copyrecords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MytextApplication" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MytextApplication/AppServer/Router/textapp.js" />
+        <option value="$PROJECT_DIR$/MytextApplication/AppServer/Router/users.js" />
+        <option value="$PROJECT_DIR$/MytextApplication/DAO/usersdao.js" />
+        <option value="$PROJECT_DIR$/MytextApplication/AppServer/Router/heating.js" />
+        <option value="$PROJECT_DIR$/MytextApplication/AppServer/appServer.js" />
+        <option value="$PROJECT_DIR$/MytextApplication/DAO/heatingdao.js" />
+        <option value="$PROJECT_DIR$/MytextApplication/Public/weclome.html" />
+        <option value="$PROJECT_DIR$/MytextApplication/Public/login.html" />
+        <option value="$PROJECT_DIR$/MytextApplication/Public/energytable.html" />
+        <option value="$PROJECT_DIR$/MytextApplication/Public/solartable.html" />
+        <option value="$PROJECT_DIR$/MytextApplication/Public/windtable.html" />
+        <option value="$PROJECT_DIR$/MytextApplication/Public/batterytable.html" />
+        <option value="$PROJECT_DIR$/MytextApplication/Public/welcome.html" />
+        <option value="$PROJECT_DIR$/MytextApplication/Public/heatingtable.html" />
+        <option value="$PROJECT_DIR$/MytextApplication/AppServer/copyrecords.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/buffer-crc32/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/crc/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express-session/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/keypress/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/multiparty/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/multiparty/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/multiparty/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/multiparty/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/node.js/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/pause/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/random-bytes/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/stream-counter/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/stream-counter/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/stream-counter/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/stream-counter/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/uid-safe/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/uid2/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/MytextApplication/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mysql-connection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mysql-to-json/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vary/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="MytextApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="MytextApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="AppServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Scripting/Networkscanner" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.copyrecords">
+    <configuration name="appServer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="appServer.js" working-dir="$PROJECT_DIR$/MytextApplication/AppServer">
+      <method v="2" />
+    </configuration>
+    <configuration name="copyrecords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MytextApplication (2)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MytextApplication/AppServer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MytextApplication/AppServer/copyrecords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.copyrecords" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16dfaaad-3688-4364-ac84-c625d3802b91" name="Default Changelist" comment="" />
+      <created>1540755087106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540755087106</updated>
+      <workItem from="1540755093353" duration="2943000" />
+      <workItem from="1541335017565" duration="3879000" />
+      <workItem from="1541535586762" duration="1870000" />
+      <workItem from="1541539339874" duration="1128000" />
+      <workItem from="1541595943880" duration="2487000" />
+      <workItem from="1542138099252" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12338000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26427525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3229508" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32786885" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16517857" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864675" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32337433" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32864675" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MytextApplication/AppServer/Router/textapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/AppServer/Router/authentication.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/createusers.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/DAO/textdao.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/thetextapp.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/DAO/authdao.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/AppServer/Router/heating.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-454">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/DAO/heatingdao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/accountcreated.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="194" column="1" selection-start-line="194" selection-start-column="1" selection-end-line="194" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/energytable.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2438">
+          <caret line="106" column="22" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/solartable.html" />
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/batterytable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/windtable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/heatingtable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/Public/admintables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="48" column="23" selection-start-line="48" selection-end-line="48" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/AppServer/Router/users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/DAO/usersdao.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/AppServer/appServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Scripting/BackupScripting/Part2CreateBackup/CreateNewbackup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+          <folding>
+            <element signature="e#67#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MytextApplication/AppServer/Records.txt 2019-03-05 19-13-14" />
+    <entry file="file://$PROJECT_DIR$/MytextApplication/AppServer/copyrecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
